@@ -57,10 +57,9 @@ color: #2F281E;
     line-height: 24px;
     /* identical to box height */
     color: #173A56;
-    box-sizing: border-box;
+   
 border: 1px solid #BCD0E5;
 border-radius: 4px;
-
 }
 
 .sign-up
